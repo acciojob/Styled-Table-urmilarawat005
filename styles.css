@@ -4,6 +4,8 @@
 	
 			width: 100%;
 			margin: 40px auto;
+		
+		
 		    
 		   
         
@@ -15,7 +17,7 @@
 			padding: 10px;
 			text-align: left;
 			font-family: sans-serif;
-			/* border:2px solid black; */
+			
 			
 			
 		}
@@ -29,9 +31,7 @@
    thead{
 	   background-color:lightblue
    }
-tr{
-   background-color:
-}
+
 .t{
 	background-color:lightgrey
 }
